@@ -377,11 +377,6 @@ This project demonstrates practical, hands-on mastery of core Python OOP princip
 <summary>Click to expand</summary>
 
 > _Screenshots coming soon —
-
-| Console Output | Menu Display | Order Confirmation |
-| :---: | :---: | :---: |
-| _placeholder_ | _placeholder_ | _placeholder_ |
-
 </details>
 
 ---
