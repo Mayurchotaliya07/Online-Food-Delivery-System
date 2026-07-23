@@ -376,7 +376,7 @@ This project demonstrates practical, hands-on mastery of core Python OOP princip
 <details>
 <summary>Click to expand</summary>
 
-> _Screenshots coming soon — add console output captures or a GUI preview here._
+> _Screenshots coming soon —
 
 | Console Output | Menu Display | Order Confirmation |
 | :---: | :---: | :---: |
